@@ -1,0 +1,24 @@
+{
+    "name": "tomorrow-house-self",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass": "sass --watch  styles/main.scss style.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HyeonGyu-Shin/tomorrow-house-self.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/HyeonGyu-Shin/tomorrow-house-self/issues"
+    },
+    "homepage": "https://github.com/HyeonGyu-Shin/tomorrow-house-self#readme",
+    "dependencies": {
+        "sass": "^1.50.1"
+    }
+}
