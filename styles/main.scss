@@ -1,9 +1,6 @@
 @import './base/fonts';
-
-div {
-    display: block;
-    color: red;
-}
+@import './base/normalize';
+@import './base/reset';
 
 * {
     font-family: 'Noto Sans KR', sans-serif;
