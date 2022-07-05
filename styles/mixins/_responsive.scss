@@ -10,9 +10,3 @@
         }
     }
 }
-
-p {
-    @include responsive(T) {
-        color: red;
-    }
-}
